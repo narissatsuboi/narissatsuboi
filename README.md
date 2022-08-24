@@ -8,7 +8,7 @@ My background before computer science is in civil engineering and building syste
 I love learning about software development, building things/breaking things, and building my own projects. 
 
 ## What I'm Working On 
-- [tracki](https://github.com/narissatsuboi/tracki): permit tracking app to compliment the data provided by Seattle Service Portal and Accela API, Node.js, React, JavaScript
+- [tracki](https://github.com/narissatsuboi/tracki): permit tracking app to compliment the data provided by Seattle Service Portal and Accela API, MERN stack
 - [ds&a practice](https://github.com/narissatsuboi/Leetcode): data structures and algorithms practice for internship interview season 
 
 ## Contact
