@@ -5,7 +5,7 @@ I'm a **MSc of Computer Science student at Seattle University** 📚 in Washingt
 
 My background before computer science is in civil engineering and building systems engineering  🏗️. I continue to work as a construction engineer while I work toward my career change into software development. You can see my career trajectory on my [resume](https://github.com/narissatsuboi/Resume/blob/main/Tsuboi%20Narissa%20Resume%20202208.pdf)✨. 
 
-I love learning about software development, building things/breaking things, and building my own projects. 
+I love learning about software development, building things/breaking things, and working my own projects. 
 
 ## What I'm Working On 
 - [tracki](https://github.com/narissatsuboi/tracki): permit tracking app to compliment the data provided by Seattle Service Portal and Accela API, MERN stack
