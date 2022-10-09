@@ -1,4 +1,4 @@
-# Nars ⛩️
+# Nars ⛩
 
 ## About 
 I'm a **MSc of Computer Science student at Seattle University** 📚 in Washington, USA. I've been making the career change into software development since January 2021 when I started the Seattle U Computer Science Fundamentals Certificate. 
