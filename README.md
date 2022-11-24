@@ -7,11 +7,6 @@ My background before computer science was in civil engineering and building syst
 
 I love learning about software development, building things/breaking things, and working my own projects. 
 
-## Skills 
-- Data structures and algorithms
-- Object oriented programming, relational databases
-- Python, C++ 
-
 ## Learning 
 - Node.js/Express.js 
 
