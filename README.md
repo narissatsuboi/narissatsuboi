@@ -11,7 +11,7 @@ I love learning about software development, building things/breaking things, and
 - Node.js/Express.js 
 
 ## What I'm Working On 
-- [tracki](https://github.com/narissatsuboi/tracki): permit tracking app to compliment the data provided by Seattle Service Portal and Accela API, MERN stack
+- [tracki](https://github.com/narissatsuboi/tracki): building permit tracking app
 - [ds&a practice](https://github.com/narissatsuboi/leethub): data structures and algorithms practice
 
 ## Contact
